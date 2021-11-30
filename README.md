@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, I am Hasan 👋
+
+I'm a software developer from Denizli, Turkey. I am currently focused on DevOps and Low Code. 
+
+🌱 I try my best to practice the Principles of Green Software Engineering
+
+📫 How to reach me: linkedin.com/in/hasan-%C3%BCnl%C3%BC-826aa1136/
 
 <!--
 **hasanunl/hasanunl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
