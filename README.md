@@ -1,6 +1,6 @@
 ### Hi, I am Hasan 👋
 
-I'm a software developer from Denizli, Turkey. I am currently focused on DevOps and Low Code. 
+I'm a software developer from Denizli, Turkey. I am currently focused on Web Development. 
 
 🌱 I try my best to practice the Principles of Green Software Engineering
 
